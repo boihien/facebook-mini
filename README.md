@@ -4,7 +4,7 @@ Project that emulates instant messaging feature from facebook messenger. Uses so
 ## Instructions:
 * Install mininet on Virtual Box
 * Copy files into mininet
-* Enter command sudo mn --custom finalTopol.py --topo myTopo -x
+* Enter command `sudo mn --custom finalTopol.py --topo myTopo -x`
 * Enter command `python server2.py` in the S1 terminal window
 * Enter command `python client2.py` in the C1 terminal window
 
@@ -23,4 +23,12 @@ The usernames are hardcoded into the server. The current username and passwords 
 * Username: User2 | Password: 123
 * Username: User3 | Password: 123
 
-## Demo
+## Quick Demo
+![GitHub Logo](/ScreenShots/facebook-min-capture1)
+* Logging into server
+
+![GitHub Logo](/ScreenShots/facebook-min-capture2)
+* Sending message to user2
+
+![GitHub Logo](/ScreenShots/facebook-min-capture3)
+* user2 recieving message
