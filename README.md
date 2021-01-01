@@ -27,8 +27,8 @@ The usernames are hardcoded into the server. The current username and passwords 
 ![GitHub Logo](/facebook-min-capture1.PNG)
 * Logging into server
 
-![GitHub Logo](/facebook-min-capture1.PNG)
+![GitHub Logo](/facebook-min-capture2.PNG)
 * Sending message to user2
 
-![GitHub Logo](/facebook-min-capture1.PNG)
+![GitHub Logo](/facebook-min-capture3.PNG)
 * user2 recieving message
