@@ -1,5 +1,5 @@
 # Facebook-Mini
-Project that emulates instant messaging feature from facebook messenger. Uses socket programming with a server/client template. The client interacts with the server and the server verifies the user's actions.
+Project that emulates instant messaging feature from facebook messenger. Uses socket programming with a server/client template. The client interacts with the server where the server verifies the user's actions. There can be multiple clients.
 
 ## Instructions:
 * Install mininet on Virtual Box
