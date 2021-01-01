@@ -7,6 +7,7 @@ Project that emulates instant messaging feature from facebook messenger. Uses so
 * Enter command `sudo mn --custom finalTopol.py --topo myTopo -x`
 * Enter command `python server2.py` in the S1 terminal window
 * Enter command `python client2.py` in the C1 terminal window
+* Different clients can log into the server through terminal window C2, C3, C4, etc. 
 
 ## Features
 The user can 
