@@ -24,11 +24,11 @@ The usernames are hardcoded into the server. The current username and passwords 
 * Username: User3 | Password: 123
 
 ## Quick Demo
-![GitHub Logo](/ScreenShots/facebook-min-capture1)
+![GitHub Logo](/facebook-min-capture1.PNG)
 * Logging into server
 
-![GitHub Logo](/ScreenShots/facebook-min-capture2)
+![GitHub Logo](/facebook-min-capture1.PNG)
 * Sending message to user2
 
-![GitHub Logo](/ScreenShots/facebook-min-capture3)
+![GitHub Logo](/facebook-min-capture1.PNG)
 * user2 recieving message
